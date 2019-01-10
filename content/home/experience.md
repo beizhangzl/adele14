@@ -27,5 +27,14 @@ date_format = "January 2006"
   date_end = ""
   description = "Conduct research and develop innovative technologies and solutions for power systems PMU data analytics."  
 
+[[experience]]
+  title = "Application Engineer"
+  company = "GE Power"
+  company_url = "https://www.geenergyconsulting.com/"
+  location = "New York"
+  date_start = "2017-07-10"
+  date_end = "2018-12-19"
+  description = "Conduct consulting studies regarding power system reliability and economic planning by using GE MARS and GE MAPS."
+
 
 +++
