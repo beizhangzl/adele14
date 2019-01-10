@@ -46,13 +46,4 @@ date_format = "January 2006"
   description = "Automate the process of Dynamic Contingency Anlysis Tool (DCAT)"
 
 
-[[experience]]
-  title = "Graduate Research Assistant"
-  company = "Texas A&M Engineering Experiment Station"
-  company_url = "https://tees.tamu.edu//"
-  location = "Texas"
-  date_start = "2012-09-01"
-  date_end = "2017-06-30"
-  description = "Conduct researches on electric vehicles, electriciy market, power system resilience and solar forecasting."
-
 +++
