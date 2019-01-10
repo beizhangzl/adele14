@@ -1,11 +1,11 @@
 +++
 
-title = "Optimal Allocation of PV Generation and Battery Storage for Enhanced Resilience"
+title = "Predictive Risk Analytics for Weather-Resilient Operation of Electric Power Systems"
 date = 2012-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
-authors = ["Bei Zhang", "Payman Dehghanian", "Mladen Kezunovic"]
+authors = ["Payman Dehghanian", "Bei Zhang", "Tatjana Dokic", "Mladen Kezunovic"]
 
 # Publication type.
 # Legend:
@@ -19,8 +19,8 @@ authors = ["Bei Zhang", "Payman Dehghanian", "Mladen Kezunovic"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*IEEE Transactions on Smart Grid*, Volume: 10 , Issue: 1 , Jan. 2019"
-publication_short = "*IEEE Transactions on Smart Grid*, Volume: 10 , Issue: 1 , Jan. 2019"
+publication = "*IEEE Transactions on Sustainable Energy*, Volume: 10 , Issue: 1 , Jan. 2019"
+publication_short = "*IEEE Transactions on Sustainable Energy*, Volume: 10 , Issue: 1 , Jan. 2019"
 
 
 # Abstract and optional shortened version.
@@ -43,12 +43,12 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/document/8022879"
+url_pdf = "https://ieeexplore.ieee.org/document/8336965"
 
 
 # Custom links (optional).
 
-doi = "10.1109/TSG.2017.2747136"
+doi = "10.1109/TSTE.2018.2825780"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
