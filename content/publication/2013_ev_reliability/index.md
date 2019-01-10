@@ -19,8 +19,8 @@ authors = ["Bei Zhang", "Mladen Kezunovic"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*2013 IEEE Power & Energy Society General Meeting (PESGM)*, Vancouver, BC, Canada"
-publication_short = "*2013 IEEE Power & Energy Society General Meeting (PESGM)*, Vancouver, BC, Canada"
+publication = "*2013 IEEE Power & Energy Society General Meeting (PESGM)*, Vancouver, BC, Canada, Jul. 2013"
+publication_short = "*2013 IEEE Power & Energy Society General Meeting (PESGM)*, Vancouver, BC, Canada, Jul. 2013"
 
 
 # Abstract and optional shortened version.
