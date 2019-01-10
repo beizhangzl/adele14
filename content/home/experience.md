@@ -25,8 +25,7 @@ date_format = "January 2006"
   location = "California"
   date_start = "2018-12-27"
   date_end = ""
-  description = "Conduct research and develop innovative technologies and solutions for power systems PMU data analytics."
-"""  
+  description = "Conduct research and develop innovative technologies and solutions for power systems PMU data analytics."  
 
 [[experience]]
   title = "Application Engineer"
@@ -36,7 +35,7 @@ date_format = "January 2006"
   date_start = "2017-07-10"
   date_end = "2018-12-19"
   description = "Conduct consulting studies regarding power system reliability and economic planning by using GE MARS and GE MAPS."
-"""
+
 [[experience]]
   title = "PhD Intern"
   company = "Pacific Northwest National Lab"
@@ -45,7 +44,7 @@ date_format = "January 2006"
   date_start = "2015-10-5"
   date_end = "2016-15"
   description = "Automate the process of Dynamic Contingency Anlysis Tool (DCAT)"
-"""
+
 
 [[experience]]
   title = "Graduate Research Assistant"
@@ -55,5 +54,5 @@ date_format = "January 2006"
   date_start = "2012-09-01"
   date_end = "2017-06-30"
   description = "Conduct researches on electric vehicles, electriciy market, power system resilience and solar forecasting."
-"""
+
 +++
