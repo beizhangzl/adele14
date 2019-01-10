@@ -37,6 +37,15 @@ date_format = "January 2006"
   description = "Conduct consulting studies regarding power system reliability and economic planning by using GE MARS and GE MAPS."
 
 [[experience]]
+  title = "PhD Intern"
+  company = "Pacific Northwest National Lab"
+  company_url = "https://www.pnnl.gov/"
+  location = "Washington"
+  date_start = "2015-10-05"
+  date_end = "2016-01-15"
+  description = "Automate the process of Dynamic Contingency Anlysis Tool (DCAT)"
+
+[[experience]]
   title = "Graduate Research Assistant"
   company = "Texas A&M Engineering Experiment Station"
   company_url = "https://tees.tamu.edu//"
