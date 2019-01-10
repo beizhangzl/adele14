@@ -1,6 +1,6 @@
 +++
 
-title = "Impact on Power System Flexibility by Electric Vehicle Participation in Ramp Market"
+title = "Energy Storage as a Peaker Replacement: Can Solar and Battery Energy Storage Replace the Capacity Value of Thermal Generation?"
 date = 2012-01-01T00:00:00
 draft = false
 
